@@ -1,0 +1,1 @@
+./Debug/wah.cpp.o ./Debug/update.cpp.o ./Debug/read.cpp.o ./Debug/merge.cpp.o ./Debug/master.cpp.o ./Debug/insert.cpp.o ./Debug/delete.cpp.o
